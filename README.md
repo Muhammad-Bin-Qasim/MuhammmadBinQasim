@@ -51,28 +51,6 @@ Aspiring software engineer focused on building practical applications, learning 
 
 ![VS Code](https://img.shields.io/badge/VSCode-Editor-007ACC?style=flat&logo=visualstudiocode)
 
----
-
-# Featured Projects
-
-### Calculator App
-A simple calculator application created using JavaScript for performing basic arithmetic operations.
-
-Tech: HTML, CSS, JavaScript
-
----
-
-### Student Management System
-Basic CRUD application to manage student records using database concepts.
-
-Tech: C++ / MySQL
-
----
-
-### Personal Portfolio Website
-A personal website to showcase projects and skills.
-
-Tech: HTML, CSS
 
 ---
 
