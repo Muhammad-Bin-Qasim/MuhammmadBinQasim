@@ -76,18 +76,6 @@ Tech: HTML, CSS
 
 ---
 
-# GitHub Overview
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bin-Qasim&show_icons=true&theme=transparent"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Bin-Qasim&layout=compact&theme=transparent"/>
-</p>
-
-<br clear="left"/>
-
----
-
 # Learning Goals
 
 - Master **Full Stack Development**
